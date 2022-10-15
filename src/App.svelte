@@ -2,10 +2,10 @@
 </script>
 
 <main>
-  <h1>Robert Castillo</h1>
+  <h1>Roberto Castillo</h1>
 
   <div class="card">
-    <h1>Hola mundo</h1>
+    <h1>Ingeniero en sistemas</h1>
   </div>
 
   <p>
@@ -13,7 +13,7 @@
   </p>
 
   <p class="read-the-docs">
-    Ingeniero en sistemas
+  Honduras, Danli El Paraiso, 2022
   </p>
 </main>
 
